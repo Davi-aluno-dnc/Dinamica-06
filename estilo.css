@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@400;700&family=Hubballi&family=Inter:wght@300;500;700&family=Montserrat:wght@400;700&family=Poppins:ital,wght@0,100;0,500;1,500&family=Raleway:ital,wght@0,700;1,400&display=swap');
+
+.card-destaque{
+    box-shadow: 10px 15px;
+}
+body{
+    position: relative;
+}
+
+#tgModal{
+border-radius: 20px;
+} 
+
+.modal-title{
+position: relative;
+left: 50px;
+}
+
+#message-text{
+    text-align: center;
+}
+
+#img_xicara{
+position: relative;
+width: 132px;
+height: 109px;
+left: 180px;
+bottom: 20px;
+/* background: url(image-removebg-preview.png); */
+}
+
+.btn{
+    border-radius: 20px;
+}
+
+.zoom:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+    cursor: pointer;
+
+}
