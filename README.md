@@ -1,4 +1,5 @@
-# Dinamica-06Este projeto é de uma cafateria chamada Dnc Cofee.
+# Dinamica-06
+Este projeto é de uma cafateria chamada Dnc Cofee.
 Sua estilização é um misto de CSS puro e Bootstrap.
 Foi usado o navbar do bootstrap para construção do menu
 Ao clicar no botão "Sobre", abre-se um modal com o texto de apresentação do site.
